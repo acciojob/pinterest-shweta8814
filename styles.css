@@ -5,7 +5,8 @@
 	align-items:center;
 }
 .hero-image{
-	width:100%;
+	padding:0;
+	width:10%;
 	height:100%;
 object-fit: cover;
 	
